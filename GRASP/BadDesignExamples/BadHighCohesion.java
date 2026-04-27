@@ -1,8 +1,4 @@
 /**
- *
- * @author shridevisawant
- */
-/**
  * Bad Design Example – Low Cohesion
  * One class is doing too many unrelated tasks.
  */

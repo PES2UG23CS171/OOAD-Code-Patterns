@@ -1,7 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
 /*
 ISP - Interface Segregation Principle states that classes 
 should not be forced to implement interfaces they do not use.

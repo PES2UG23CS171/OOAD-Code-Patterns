@@ -1,8 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
-
 class Employee {
     int salary;
 

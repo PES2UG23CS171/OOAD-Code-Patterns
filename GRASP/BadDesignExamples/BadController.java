@@ -1,9 +1,4 @@
 /**
- *
- * @author shridevisawant
- */
-
-/**
  * Bad Design Example – No Controller
  * UI class directly handles business logic.
  */

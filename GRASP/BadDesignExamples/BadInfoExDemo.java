@@ -1,8 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
-
 class Student {
     private int[] marks;
 

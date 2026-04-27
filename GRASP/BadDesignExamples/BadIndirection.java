@@ -1,9 +1,4 @@
 /**
- *
- * @author shridevisawant
- */
-
-/**
  * Bad Design Example – No Indirection
  * Customer directly depends on Bank.
  */

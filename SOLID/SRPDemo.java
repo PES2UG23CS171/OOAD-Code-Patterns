@@ -1,8 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
-
 /*
 Single Responsibility Principle:
 A class should have only one responsibility and one reason to change.

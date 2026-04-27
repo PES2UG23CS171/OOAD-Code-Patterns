@@ -1,8 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
-
 /*
 Pure Fabrication - Assign responsibilities to an artificial class 
     that does not represent a domain concept, 

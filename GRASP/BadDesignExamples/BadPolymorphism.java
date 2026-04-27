@@ -1,8 +1,4 @@
 /**
- *
- * @author shridevisawant
- */
-/**
  * Bad Design Example – No Polymorphism
  * Uses conditional statements instead of letting objects handle behavior.
  */

@@ -1,8 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
-
 /*
 Creator - assigns object creation responsibility to the class that 
     aggregates or closely uses the created object.

@@ -1,8 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
-
 /* Low Coupling- designing classes so that changes in one class 
 have minimal impact on other classes.
 

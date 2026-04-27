@@ -1,8 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
-
 /*
 High Cohesion:
 A class should have closely related responsibilities and focus on 

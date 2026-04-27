@@ -1,8 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
-
 /*
 Protected / Controlled Variation:
 Identify points of variation (future changes) and create a stable 

@@ -1,8 +1,4 @@
 /**
- *
- * @author shridevisawant
- */
-/**
  * Bad Design Example – No Pure Fabrication
  * Domain class handles database responsibility.
  */

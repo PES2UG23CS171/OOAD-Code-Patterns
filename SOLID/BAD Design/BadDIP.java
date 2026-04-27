@@ -1,8 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
-
 /*
 Without DIP, the business layer directly depends on the database 
 implementation, which creates tight coupling.

@@ -1,8 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
-
 /*
 Dependency Inversion Principle says high-level classes should 
 depend on interfaces (abstractions) rather than concrete classes.

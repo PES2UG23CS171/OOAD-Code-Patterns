@@ -1,7 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
 //LSP states that a subclass (like Intern) should be able to 
 //replace its parent class (Employee) without breaking program 
 //behavior.

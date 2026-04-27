@@ -1,8 +1,4 @@
 /**
- *
- * @author shridevisawant
- */
-/**
  * Bad Design Example – High Coupling
  * BankSystem depends directly on concrete classes.
  */

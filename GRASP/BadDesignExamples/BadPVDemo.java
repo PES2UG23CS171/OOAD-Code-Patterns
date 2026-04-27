@@ -1,9 +1,4 @@
 /**
- *
- * @author shridevisawant
- */
-
-/**
  * Bad Design Example – No Protected Variation
  * BankSystem directly depends on concrete classes.
  */

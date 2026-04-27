@@ -1,7 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
 /*
 Open/Closed Principle
     - Software entities should be open for extension but 

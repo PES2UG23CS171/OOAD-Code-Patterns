@@ -1,7 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
 /*
 Applying Information Expert - GRASP principle
 

@@ -1,9 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
-
-
 /*
 Indirection - Assign responsibility to an intermediate object to 
 avoid direct coupling between two classes.

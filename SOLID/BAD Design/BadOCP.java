@@ -1,7 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
 /*
 If we add a new employee type like ContractEmployee, we must modify this class which violates OCP.
 */

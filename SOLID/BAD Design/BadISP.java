@@ -1,7 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
 /*
 Bad Design:
 One large interface → classes implement unnecessary methods.

@@ -1,8 +1,3 @@
-/**
- *
- * @author shridevisawant
- */
-
 /*
 The Controller principle assigns responsibility for handling system 
 events to a non-UI class that represents the system or a use-case.
